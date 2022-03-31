@@ -23,8 +23,8 @@ email: amireson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The RSSN is a network of volunteers who wish to help refugees in Saskatoon to 
   get admission into the University of Saskatchewan
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/RSSN" # the subpath of your site, e.g. /blog
+url: "shyr.ca" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: jekyllrb
   #github_username:  jekyll
 
