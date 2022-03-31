@@ -4,13 +4,14 @@ layout: home
 
 **Mission statement**
 
-The RSSN is a volunteer lead group which seeks to provide a welcoming and supportive mentors to new refugees in Saskatoon, to help individuals to realize their potential through higher education.
+The RSSN is a volunteer lead group which seeks to help new refugees in Saskatoon to realize their potential through higher education.
 
 **What we do**
 
 The RSSN undertakes the following activities:
 
-* Serve as a network of information for staff and volunteers between USASK, SODS, WUSC and other 
+* Serve as a network of information for staff and volunteers between the U of S, SODS, WUSC and other 
+
 * Coordinate and grow group of staff and faculty volunteers at the U of S, who will act as mentors to individual refugees, who are wishing to enter the U of S. 
 
 * Connect refugees with a mentor. The potential students will be pre-admission, so are not supported by existing student support services at the U of S. 
