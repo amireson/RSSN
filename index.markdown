@@ -2,6 +2,8 @@
 layout: home
 ---
 
+**New:** [Visa support request](visas)
+
 **Mission statement**
 
 The RSSN is a volunteer lead group which seeks to help new refugees in Saskatoon to realize their potential through higher education.
