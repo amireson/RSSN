@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**New:** [Visa support request](visas)
+**New:** [Mentor rules](rules)
 
 **Mission statement**
 
@@ -35,5 +35,7 @@ The RSSN undertakes the following activities:
 **Volunteer**
 
 If you are interested in becoming a volunteer with the RSSN, please [contact us](mailto:amireson@gmail.com)
+
+Mentor rules are posted [here](rules)
 
 
