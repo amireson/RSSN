@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: post
+title: Mentoring
 ---
 
 The RSSN Mentoring team is a group of volunteers in Saskatoon, who are working to connect mentors with newly arrived Afghan refugees in Saskatoon. The mentoring program is run by Global Gathering Place (GGP) - see details <a href="https://globalgatheringplace.com/volunteer-saskatoon/">here</a>
