@@ -106,12 +106,19 @@ If you have not yet passed one of the English language qualifications, see [here
 <div id="engqual"></div>
 ### What English language qualification will I need to get into University?
 
-answer here
+For the official answer see [here](https://admissions.usask.ca/requirements/english-language-proficiency.php#top)
+
+The simple answer is - just try to pass [duolingo](https://www.duolingo.com/). If you talk to me or Wenona, we may be able to get you a waiver for the cost of the test. 
+
+I know the test is scary - but don't hesitate for too long (yes, I'm talking to you - you know who you are). Go for it.
 
 <div id="english"></div>
 ### How can I improve my English to get into university?
 
-answer here
+This is what everyone asks me. When I have a good answer, I promise, I will let you know. In the meantime - keep talking and writing. [Here](https://youtu.be/CPmGn_KnNEw) is a way to use artificial intelligence to give you feedback on your writing.
+
+I also offer a conversation circle style class on Friday afternoons at Nutana - you are all welcome to come to this, but it is not a [silver bullet](https://www.merriam-webster.com/dictionary/silver%20bullet).
+
 
 ### Are there other ways to get a good job, without going to university?
 
