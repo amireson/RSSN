@@ -10,4 +10,4 @@ The RSSN is a volunteer lead group which seeks to help new refugees in Saskatoon
 
 If you just came here to sign up as a mentor, go [here]({% post_url 2023-04-01-mentoring %}).
 
-Andrew's meandering thoughts are ocassionally shared [here](https://www.youtube.com/playlist?list=PLepOcf_DIcEhta61vcD-nmrD5jBgw5pph)
+Andrew's meandering thoughts are occasionally shared [here](https://www.youtube.com/playlist?list=PLepOcf_DIcEhta61vcD-nmrD5jBgw5pph)
