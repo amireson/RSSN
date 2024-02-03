@@ -14,4 +14,4 @@ If you are new to Saskatoon, welcome. You are in a very friendly and beautiful c
 
 I would be happy to talk to you. If you are interested in educational opportunities I can give you advice. And if you are specifically interested in studying at the [University of Saskatchewan](https://www.usask.ca/admission/), I am part of a team in the University that can help you to understand the process and make your application go smoothly.  
 
-If you want to get in touch, send me an [email](amireson@gmail.com) with "RSSN" in the subject line.
+If you want to get in touch, send me an [email](mailto:amireson@gmail.com) with "RSSN" in the subject line.
