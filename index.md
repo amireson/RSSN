@@ -6,9 +6,9 @@ title:
 <font size="6">Refugee Student Support Network</font>
 
 <br>
-## [Are you new to Saskatoon?](newhere) 
+## [Are you new to Saskatoon?](newHere) 
 
-If you are a newcomer to Saskatoon, we would be glad to meet you. [Click here](newhere) to learn about how we can help and you can become a part of our community.
+If you are a newcomer to Saskatoon, we would be glad to meet you. [Click here](newHere) to learn about how we can help and you can become a part of our community.
 <br>
 
 ## About us
