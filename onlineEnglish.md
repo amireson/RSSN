@@ -16,3 +16,7 @@ We will host occasional meetings WhatsApp where participants can practice their 
 In this intermediate written English course, you complete a number of writing assignments, which will be graded and given feedback. If you complete 10 assignments successfully you will receive a letter of completion. To begin this course and register, go here:
 
 **[Assignment 1](assignments/01)**
+
+**[Assignment 2](assignments/02_asda)**
+
+**[Assignment 3](assignments/03)**
