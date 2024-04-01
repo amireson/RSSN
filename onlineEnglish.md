@@ -24,3 +24,5 @@ In this intermediate written English course, you complete a number of writing as
 **[Assignment 4](assignments/04)**
 
 **[Assignment 5](assignments/05)**
+
+**[Assignment 6](assignments/06)**
