@@ -3,6 +3,8 @@ layout: home
 title: 
 ---
 
+<img src="/assets/images/rssn_logo.jpeg" alt="alt" />
+
 <font size="6">Refugee Student Support Network</font>
 
 <br>
